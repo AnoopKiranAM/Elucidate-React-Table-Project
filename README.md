@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted on Netlify
+Live Version : https://anoop-elucidate-project.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
